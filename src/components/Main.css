@@ -1,0 +1,14 @@
+.product-list{
+    margin-top: 20px !important;
+    display: flex !important;
+    flex-wrap: wrap !important;
+    gap: 20px !important;
+    /* justify-content: space-around !important; */
+    align-items: center !important;
+}
+
+.new-btn
+{
+    border: none !important;
+    background-color: brown !important;
+}
